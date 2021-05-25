@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['localhost', 'spamazon-ga-backend.herokuapp.com/']
 # Application definition
 
 INSTALLED_APPS = [
-    'corsheaders'
+    'corsheaders',
     'rest_framework',
     'products_api',
     'django.contrib.admin',
