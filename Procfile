@@ -1,1 +1,1 @@
-web: gunicorn spamazon_api/spamazon_api.wsgi
+web: gunicorn --pythonpath spamazon_api spamazon_api.wsgi
