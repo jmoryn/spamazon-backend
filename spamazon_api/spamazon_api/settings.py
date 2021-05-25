@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ll!-1rd_c%vy)4y=45aj07#0hb03)w6n2o@t_*myce^ml+eg))
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'spamazon-ga-backend.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost', 'spamazon-ga-backend.herokuapp.com']
 
 
 # Application definition
